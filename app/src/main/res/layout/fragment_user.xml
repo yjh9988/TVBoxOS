@@ -91,10 +91,10 @@
                     android:focusable="false"
                     android:focusableInTouchMode="false"
                     android:gravity="center"
-                    android:text="直播"
+                    android:text="英语直播"
                     android:textAlignment="gravity"
                     android:textColor="@color/color_CCFFFFFF"
-                    android:textSize="@dimen/ts_40" />
+                    android:textSize="@dimen/ts_20" />
 
             </LinearLayout>
 
